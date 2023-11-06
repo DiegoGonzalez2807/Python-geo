@@ -1,0 +1,136 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 1,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.785315,
+                    51.670836
+                ]
+            },
+            "properties": {
+                "aep": 39519.01,
+                "myType": "turbine",
+                "aep_color": "#adcaa6",
+                "elevation": -30
+            }
+        },
+        {
+            "id": 2,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.773463,
+                    51.671719
+                ]
+            },
+            "properties": {
+                "aep": 39731.8,
+                "myType": "turbine",
+                "aep_color": "#71d1a1",
+                "elevation": -33
+            }
+        },
+        {
+            "id": 3,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.791787,
+                    51.677073
+                ]
+            },
+            "properties": {
+                "aep": 38404.46,
+                "myType": "turbine",
+                "aep_color": "#f6b597",
+                "elevation": -26
+            }
+        },
+        {
+            "id": 4,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.779933,
+                    51.677956
+                ]
+            },
+            "properties": {
+                "aep": 38155.5,
+                "myType": "turbine",
+                "aep_color": "#f89380",
+                "elevation": -32
+            }
+        },
+        {
+            "id": 5,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.768079,
+                    51.678839
+                ]
+            },
+            "properties": {
+                "aep": 39831.26,
+                "myType": "turbine",
+                "aep_color": "#31f7bf",
+                "elevation": -34
+            }
+        },
+        {
+            "id": 6,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.786405,
+                    51.684193
+                ]
+            },
+            "properties": {
+                "aep": 38391.26,
+                "myType": "turbine",
+                "aep_color": "#f6b396",
+                "elevation": -31
+            }
+        },
+        {
+            "id": 7,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.774549,
+                    51.685077
+                ]
+            },
+            "properties": {
+                "aep": 39216.75,
+                "myType": "turbine",
+                "aep_color": "#dde5b6",
+                "elevation": -34
+            }
+        }
+    ],
+    "properties": {
+        "aep": 273250.05,
+        "nCols": 6,
+        "wakeloss_percentage": 6.307,
+        "park_wake_model_type": "Jensen",
+        "majorSpacingRowDirection": 245.0,
+        "park_wake_model_jensen_k": 0.04,
+        "potentialNumberOfPositions": 7.0,
+        "min_distance_rotor_diameters": 4.717,
+        "wake_simulation_evaluation_time": 0.234,
+        "park_wake_model_include_blockage": false
+    }
+}
